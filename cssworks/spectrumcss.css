@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Satisfy', cursive; 
+    text-align:center;
+}
+table{
+    border-spacing:10px;
+    margin:auto;
+}
+td{
+    height:350px;
+    padding:80;
+    border:5px solid white;
+}
+#one{
+
+     background-color:rgb(28, 165, 189 );
+
+}
+#two{
+    background-color:rgb(3, 252, 252);
+}
+#three{
+    background-color:rgb(21, 223, 230);
+
+}
+#four{
+    background-color:peachpuff;
+
+}
+#five{
+    background-color:pink;
+}
+   
